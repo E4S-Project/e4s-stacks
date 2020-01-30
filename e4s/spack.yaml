@@ -55,6 +55,7 @@ spack:
   - hdf5
   - adios2
   - adios
+  - openpmd-api
   - darshan-runtime
   - darshan-util
   - veloc
