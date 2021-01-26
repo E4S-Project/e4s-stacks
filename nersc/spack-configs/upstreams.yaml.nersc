@@ -1,3 +1,0 @@
-upstreams:
-  spack-production:
-    install_tree: /global/common/sw
